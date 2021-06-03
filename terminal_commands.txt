@@ -1,0 +1,26 @@
+ls to list the things in folder
+open to open up a file
+cd . to direct to the current directory (folder)
+cd .. to direct to parent directory (folder)
+cd ~ to direct to current users directory (folder)
+mkdir to make a new directory (folder)
+pwd to show which current directory (folder)
+touch to add a new text file
+rm to remove a file
+rm -r to remove a directory (folder)
+command and k to clear the screen
+command and q to close the txt file
+nano to edit the txt file
+history to see the past history of commands in terminal
+git commit -m "text here" to make a commit at that point in time
+git add . adds git to the folder or directory
+git status to check status of files in folder
+git add nameoffilehere to add git to the file
+git log to look at git history
+git diff to check what different from file and one in repository
+git diff --staged to check what different from stage and repository
+git mv to rename of file
+git commit -am "text here" to commit all
+git checkout -- file name here takes something from repository and makes it working copy
+git reset HEAD to unstage change
+git checkout commitnumberfirstfewgitwillknow -- file name to get copy of that commit version to working copy
